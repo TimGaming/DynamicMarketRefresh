@@ -8,3 +8,5 @@ http://forums.bukkit.org/threads/inactive-econ-dynamicmarket-v-0-4-8-1-versatile
 The goals of this plugin include allowing the addition of Minecraft items without the reliance of what item data it contains.
 
 This will allow the plugin to continue to work with the addition of new items through Minecraft seamlessly.
+
+NOTE: This is not an official redesign. I had no hand in the development of the original, any code taken from the original plugin will be properly credited.

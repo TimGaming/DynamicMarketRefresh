@@ -1,0 +1,18 @@
+market:
+  defaults:
+    purchasable: false
+    sellable: false
+    basePrice: 2147483647
+    priceCeiling: 2147483647
+    priceFloor: 0.01
+    volatility: 7
+    salesTax: 75
+    stock: 0
+    stockCeiling: 2147483647
+    stockFloor: -2147483648
+    lastUpdated: 0
+database:
+  url: jdbc:mysql://localhost:3306/
+  name: dynamicmarket
+  user: root
+  password: password

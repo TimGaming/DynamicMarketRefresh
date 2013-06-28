@@ -1,0 +1,16 @@
+name: Dynamic Market Refresh
+main: com.turbogrimoire.purelysatanic.dynamicmarket.DynamicMarketPlugin
+version: 2.0
+website: http://turbogrimoire.com
+author: PurelySatanic
+depend:
+description: >
+             Dynamic Market Refresh by PurelySatanic
+commands:
+  Market:
+    Description: Commands to access the market
+    Usage: |
+        /<command> help
+        /<command> purchase
+        /<command> sell
+           
